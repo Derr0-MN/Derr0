@@ -8,8 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 I am passionate about cybersecurity because I enjoy solving complex problems and protecting systems from evolving threats. My goal is to become a skilled Cybersecurity Analyst with expertise in threat detection, incident response, and vulnerability assessment.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
